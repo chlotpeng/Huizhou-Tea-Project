@@ -1,3 +1,0 @@
-pygame
-mediapipe
-opencv-python
